@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-audiorecorder-dev-175436-authRole",
+      "UnauthRoleArn": "arn:aws:iam::697906607490:role/amplify-audiorecorder-dev-175436-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::697906607490:role/amplify-audiorecorder-dev-175436-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-audiorecorder-dev-175436-deployment",
+      "UnauthRoleName": "amplify-audiorecorder-dev-175436-unauthRole",
+      "StackName": "amplify-audiorecorder-dev-175436",
+      "StackId": "arn:aws:cloudformation:us-east-2:697906607490:stack/amplify-audiorecorder-dev-175436/53503d70-787f-11ec-a6aa-0a9b9cd9c6f2",
+      "AmplifyAppId": "dwssmys02r4q7"
+    },
+    "categories": {
+      "auth": {
+        "audiorecorder17928e2c": {}
+      },
+      "storage": {
+        "audiorecorder0373cf4f": {
+          "bucketName": "mosquitoes-classification-model-m2",
+          "region": "eu-west-3"
+        }
+      }
+    }
+  }
+}
